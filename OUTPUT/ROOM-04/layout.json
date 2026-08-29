@@ -1,0 +1,212 @@
+{
+  "placements": [
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P001",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 5100,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P002",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 6300,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P003",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 7500,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P004",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 8700,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P005",
+      "rotation_deg": 180,
+      "sku": "NW-DES-001",
+      "x_mm": 700,
+      "y_mm": 2000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P006",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 1900,
+      "y_mm": 1400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P007",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 3100,
+      "y_mm": 2000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P008",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 8900,
+      "y_mm": 2000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P009",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 4300,
+      "y_mm": 2400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P010",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 700,
+      "y_mm": 2600
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P011",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 1900,
+      "y_mm": 3000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P012",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 5500,
+      "y_mm": 3000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P013",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 6700,
+      "y_mm": 3400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P014",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 3100,
+      "y_mm": 3600
+    },
+    {
+      "family": "storage",
+      "finish_id": "F03",
+      "placement_id": "P015",
+      "rotation_deg": 0,
+      "sku": "NW-STO-001",
+      "x_mm": 9700,
+      "y_mm": 300
+    },
+    {
+      "family": "storage",
+      "finish_id": "F03",
+      "placement_id": "P016",
+      "rotation_deg": 0,
+      "sku": "NW-STO-001",
+      "x_mm": 9700,
+      "y_mm": 700
+    },
+    {
+      "family": "storage",
+      "finish_id": "F03",
+      "placement_id": "P017",
+      "rotation_deg": 0,
+      "sku": "NW-STO-001",
+      "x_mm": 9700,
+      "y_mm": 1100
+    },
+    {
+      "family": "storage",
+      "finish_id": "F03",
+      "placement_id": "P018",
+      "rotation_deg": 0,
+      "sku": "NW-STO-001",
+      "x_mm": 9700,
+      "y_mm": 1500
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "placement_id": "P019",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 360,
+      "y_mm": 360
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "placement_id": "P020",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 9760,
+      "y_mm": 1960
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "placement_id": "P021",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 7560,
+      "y_mm": 3560
+    }
+  ],
+  "room_id": "ROOM-04",
+  "status": "unsatisfiable",
+  "violations": [
+    {
+      "affected_placement_ids": [],
+      "measured": {
+        "requested_family": "chair"
+      },
+      "message": "No remaining placement candidate can satisfy the complete released geometry while adding the required chair quantity.",
+      "repair_options": [
+        {
+          "action": "trade_off",
+          "strategy": "Reduce the requested chair quantity or relax a spatial requirement."
+        }
+      ],
+      "rule_id": "RB-GEO-002",
+      "violation_id": "V-ESCALATE-CHAIR"
+    }
+  ]
+}

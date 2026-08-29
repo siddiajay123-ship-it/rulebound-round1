@@ -1,0 +1,14 @@
+{
+  "blocking_reasons": [
+    "No valid geometry was found; pricing is blocked by RB-PRC-013."
+  ],
+  "currency": "INR",
+  "lines": [],
+  "quote_id": "QUOTE-ROOM-04",
+  "room_id": "ROOM-04",
+  "status": "blocked",
+  "summary": {
+    "grand_total_inr": 0
+  },
+  "summary_trace": []
+}

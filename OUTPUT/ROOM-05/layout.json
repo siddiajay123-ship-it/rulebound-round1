@@ -1,0 +1,404 @@
+{
+  "placements": [
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P001",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 700,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P002",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 1900,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P003",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 3100,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P004",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 4300,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P005",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 5500,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "paired_with": [
+        "P016"
+      ],
+      "placement_id": "P006",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 6700,
+      "y_mm": 400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "paired_with": [
+        "P024"
+      ],
+      "placement_id": "P007",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 3100,
+      "y_mm": 2000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P008",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 4300,
+      "y_mm": 2000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "placement_id": "P009",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 5500,
+      "y_mm": 2000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "paired_with": [
+        "P017"
+      ],
+      "placement_id": "P010",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 6700,
+      "y_mm": 2000
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "paired_with": [
+        "P018",
+        "P019",
+        "P021",
+        "P025",
+        "P026",
+        "P027",
+        "P029",
+        "P031"
+      ],
+      "placement_id": "P011",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 700,
+      "y_mm": 3400
+    },
+    {
+      "family": "desk",
+      "finish_id": "F03",
+      "paired_with": [
+        "P020",
+        "P022",
+        "P023",
+        "P028",
+        "P030",
+        "P032",
+        "P033"
+      ],
+      "placement_id": "P012",
+      "rotation_deg": 0,
+      "sku": "NW-DES-001",
+      "x_mm": 5900,
+      "y_mm": 3600
+    },
+    {
+      "family": "collaboration",
+      "finish_id": "F03",
+      "placement_id": "P013",
+      "rotation_deg": 0,
+      "sku": "NW-COL-001",
+      "x_mm": 700,
+      "y_mm": 6450
+    },
+    {
+      "family": "storage",
+      "finish_id": "F03",
+      "placement_id": "P014",
+      "rotation_deg": 0,
+      "sku": "NW-STO-001",
+      "x_mm": 7700,
+      "y_mm": 300
+    },
+    {
+      "family": "storage",
+      "finish_id": "F03",
+      "placement_id": "P015",
+      "rotation_deg": 0,
+      "sku": "NW-STO-001",
+      "x_mm": 7700,
+      "y_mm": 700
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P006"
+      ],
+      "placement_id": "P016",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 7560,
+      "y_mm": 1160
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P010"
+      ],
+      "placement_id": "P017",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 7560,
+      "y_mm": 2560
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P018",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 1560,
+      "y_mm": 3560
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P019",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 2160,
+      "y_mm": 3960
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P012"
+      ],
+      "placement_id": "P020",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 7960,
+      "y_mm": 3960
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P021",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 2760,
+      "y_mm": 4360
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P012"
+      ],
+      "placement_id": "P022",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 6760,
+      "y_mm": 4360
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P012"
+      ],
+      "placement_id": "P023",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 7360,
+      "y_mm": 4360
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P007"
+      ],
+      "placement_id": "P024",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 3360,
+      "y_mm": 4560
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P025",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 360,
+      "y_mm": 4960
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P026",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 960,
+      "y_mm": 4960
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P027",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 1560,
+      "y_mm": 4960
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P012"
+      ],
+      "placement_id": "P028",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 3960,
+      "y_mm": 4960
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P029",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 2160,
+      "y_mm": 5360
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P012"
+      ],
+      "placement_id": "P030",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 4560,
+      "y_mm": 5360
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P011"
+      ],
+      "placement_id": "P031",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 2760,
+      "y_mm": 5760
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P012"
+      ],
+      "placement_id": "P032",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 5160,
+      "y_mm": 5760
+    },
+    {
+      "family": "chair",
+      "finish_id": "F02",
+      "paired_with": [
+        "P012"
+      ],
+      "placement_id": "P033",
+      "rotation_deg": 0,
+      "sku": "NW-CHA-001",
+      "x_mm": 3360,
+      "y_mm": 5960
+    },
+    {
+      "family": "accessory",
+      "finish_id": "F02",
+      "placement_id": "P034",
+      "rotation_deg": 0,
+      "sku": "NW-ACC-001",
+      "x_mm": 8050,
+      "y_mm": 990
+    },
+    {
+      "family": "accessory",
+      "finish_id": "F02",
+      "placement_id": "P035",
+      "rotation_deg": 0,
+      "sku": "NW-ACC-001",
+      "x_mm": 8050,
+      "y_mm": 1190
+    }
+  ],
+  "room_id": "ROOM-05",
+  "status": "valid",
+  "violations": []
+}
